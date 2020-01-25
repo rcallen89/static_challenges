@@ -1,0 +1,57 @@
+h1 {
+  padding: 1%;
+  background-color: darkred;
+  font-size: large;
+  font-style: bold;
+  text-decoration-color: white;
+}
+
+h2{
+  font-size: large;
+  font-style: bold;
+}
+
+.right {
+  float: right;
+  text-decoration: underline;
+}
+
+nav {
+  padding-top:  5px;
+  padding-bottom: 5px;
+  background-color: darkslategray;
+  margin-bottom: 5px;
+  text-align: right;
+}
+
+ul {
+  background-color: darkslategray;
+}
+
+.main {
+  max-width: 70%;
+  float: left;
+  margin: auto;
+}
+
+.navli {
+  list-style-type: none;
+  padding: 8px;
+  color: white;
+  display: inline-block;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.side {
+  padding-left: 10px;
+  max-width: 25%;
+  margin-left: 1px;
+  float: right;
+}
+
+footer {
+  margin: auto;
+  background-color: darkred;
+  color: white;
+}
